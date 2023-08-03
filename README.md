@@ -68,3 +68,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+how to start the project for the backend
+yarn start:backend
+
+how to start the project for the frontend
+
+cd client && yarn install
+
+yarn start:frontend
+
+
+
+
+# dependencies
+yarn add 
+{`express`
+`dotenv`
+`cors`
+`openai`
+`fs`
+`multer`}
