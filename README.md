@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+# this a full backend and frontend application for creating images using AI or openai Api
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
